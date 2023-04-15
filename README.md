@@ -11,11 +11,7 @@ The dataset was randomly collected from an Iranian telecom company's database, w
 ## Requirements
 To run the Python code in this project, you will need to have the following packages installed:
 
--pandas
--numpy
--sklearn
--keras
--matplotlib
+pandas,numpy,sklearn,keras,matplotlib,tensorflow
 
 ## Usage
 You can run the code in churn.ipnyb to train the ANN model and generate predictions on the dataset. You can also modify the code to experiment with different hyperparameters and model architectures.
