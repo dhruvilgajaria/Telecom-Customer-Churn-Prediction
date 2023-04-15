@@ -14,7 +14,7 @@ To run the Python code in this project, you will need to have the following pack
 pandas, numpy, sklearn, keras, matplotlib, tensorflow, seaborn
 
 ## Usage
-You can run the code in churn.ipnyb to train the ANN model and generate predictions on the dataset. You can also modify the code to experiment with different hyperparameters and model architectures.
+You can run the code in 'churn_prediction.ipnyb' to train the ANN model and generate predictions on the dataset. You can also modify the code to experiment with different hyperparameters and model architectures.
 
 ## Conclusion
 Overall, this project demonstrates the use of an artificial neural network to predict customer churn in a telecom company's customer base. The code and documentation in this repo can be used as a starting point for similar churn prediction projects.
