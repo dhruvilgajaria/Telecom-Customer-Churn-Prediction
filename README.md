@@ -1,4 +1,4 @@
-# Telecom Churn Prediction
+# Telecom Customer Churn Prediction
 This project uses a dataset from the UCI Machine Learning Repository to build a customer churn prediction model using an artificial neural network (ANN). The dataset contains information on a telecom company's customers over a 12-month period, including call failures, frequency of SMS, number of complaints, subscription length, age group, charge amount, type of service, seconds of use, status, frequency of use, and customer value.
 
 The project's Python code uses Keras, a high-level neural networks API, to build and train a deep learning model to predict customer churn. The model's performance is evaluated using precision, recall, and accuracy metrics, as well as a confusion matrix and classification report.
